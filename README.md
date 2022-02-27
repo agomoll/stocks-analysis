@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # stocks-analysis
 Analysis of stock market performance for selected green energy sector organizations
 ## Overview of the Project
@@ -12,3 +13,4 @@ After reviewing stock data from 2017 and 2018 the following results were derived
 Table 1. Stock Comparison 2017
 
 ![stock_comparison_2017]()
+=======
