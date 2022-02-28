@@ -12,21 +12,21 @@ After reviewing stock data from 2017 and 2018 the following results were derived
 
 Table 1. Stock Comparison 2017
 
-![stock_comparison_2017](https://github.com/agomoll/stocks-analysis/blob/main/Resources/stocks_comparison_2017.png)
+<img src = “Resources/stocks_comparison_2017.png width = “100”>
 
 Figure 1.  Stock Report Run Time for 2017
 
-![](https://github.com/agomoll/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+<img src = “Resources/VBA_Challenge_2017.png width = “100”>
 
 
 Table 2. Stock Comparison 2018
 
-![Stock_comparison_2018](https://github.com/agomoll/stocks-analysis/blob/main/Resources/stocks_comparison_2018.png)
+<img src = “Resources/stocks_comparison_2018.png width = “100”>
 
 
 Figure 2. Stock Report Run Time for 2018
 
-![](https://github.com/agomoll/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+<img src = “Resources/VBA_Challenge_2018.png width = “100”>
 
 ## Summary
 The following highlights some advantages and disadvantages of refactoring code. Some advantages of refactoring code include improving the organization of the program and optimizing the actual lines of code to make it more efficient. Refactoring also provides an opportunity to clean up the code’s comments, improve explanations in comments, as well as identify bugs. Ideally this will result in faster running and more understandable code.
@@ -35,4 +35,7 @@ Despite the advantages of refactoring, some disadvantages may exist as well. Dep
     
 
 The Original VBA script in this project was refactored and the advantages and disadvantages mentioned here could also apply. One advantage was that code from multiple different VBA modules were consolidated to one block of code.  This allowed for the calculations, conditional applications, and formatting to all happen in the same script. Second, the refactoring effort provided an opportunity to optimize the comments to make the code intentions clearer. On potential disadvantage was that the original script looped through the lines using some variables. In the optimizes code, the variables were changed to arrays. This effort required somewhat tedious changes to many of the code blocks requiring additional testing which ultimately was time consuming. 
+
+
+
 
