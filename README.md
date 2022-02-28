@@ -12,7 +12,7 @@ After reviewing stock data from 2017 and 2018 the following results were derived
 
 Table 1. Stock Comparison 2017
 
-<img src = “Resources/stocks_comparison_2017.png width = “100”>
+<img src = “https://github.com/agomoll/stocks-analysis/blob/main/Resources/stocks_comparison_2017.png width = “100”>
 
 Figure 1.  Stock Report Run Time for 2017
 
