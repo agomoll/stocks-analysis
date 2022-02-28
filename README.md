@@ -18,23 +18,23 @@ For 2017, the highest volume of shares traded was SPWR at 782,187,000 units. By 
 
 Table 1. Stock Comparison 2017
 
-![stock_comparison_2017](https://github.com/agomoll/stocks-analysis/blob/main/Resources/stocks_comparison_2017.png)
+<img src="Resources/stocks_comparison_2017.png" width="350">
 
 Figure 1.  Stock Report Run Time for 2017
 
-![](https://github.com/agomoll/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+<img src="Resources/VBA_Challenge_2017.png" width="200">
 
 
 For 2018, the highest volume of shares traded was ENPH at 607,473,500 units. The lowest volume traded was AY at 83,079,900 units. DQ stock traded at a total volume of 107,873,900 units over the year. For returns in 2018, the highest performing organization was RUN with an increase of 84%. DQ was the lowest performing with a -62.6% change in stock value from beginning to end of the year. Many of the other stocks analyzed also dropped with only 2 of the 12 stocks resulting in positive returns for 2018. 
 
 Table 2. Stock Comparison 2018
 
-![Stock_comparison_2018](https://github.com/agomoll/stocks-analysis/blob/main/Resources/stocks_comparison_2018.png)
+<img src="Resources/stocks_comparison_2018.png" width="350">
 
 
 Figure 2. Stock Report Run Time for 2018
 
-![](https://github.com/agomoll/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+<img src="Resources/VBA_Challenge_2018.png" width="200">
 
 
 ## Analysis
