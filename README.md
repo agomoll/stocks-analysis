@@ -12,21 +12,21 @@ After reviewing stock data from 2017 and 2018 the following results were derived
 
 Table 1. Stock Comparison 2017
 
-<img src = “https://github.com/agomoll/stocks-analysis/blob/main/Resources/stocks_comparison_2017.png width = “100”>
+<img src = “https://github.com/agomoll/stocks-analysis/blob/main/Resources/stocks_comparison_2017.png" width = “100”>
 
 Figure 1.  Stock Report Run Time for 2017
 
-<img src = “Resources/VBA_Challenge_2017.png width = “100”>
+<img src = “Resources/VBA_Challenge_2017.png" width = “100”>
 
 
 Table 2. Stock Comparison 2018
 
-<img src = “Resources/stocks_comparison_2018.png width = “100”>
+<img src = “Resources/stocks_comparison_2018.png" width = “100”>
 
 
 Figure 2. Stock Report Run Time for 2018
 
-<img src = “Resources/VBA_Challenge_2018.png width = “100”>
+<img src = “Resources/VBA_Challenge_2018.png" width = “100”>
 
 ## Summary
 The following highlights some advantages and disadvantages of refactoring code. Some advantages of refactoring code include improving the organization of the program and optimizing the actual lines of code to make it more efficient. Refactoring also provides an opportunity to clean up the code’s comments, improve explanations in comments, as well as identify bugs. Ideally this will result in faster running and more understandable code.
